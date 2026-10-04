@@ -15,6 +15,18 @@ The project predicts whether a loan application will be **Approved** or **Reject
 - Interactive Swagger API documentation
 - Input validation using Pydantic
 
+## 🌐 Live API
+
+The API is deployed and publicly accessible.
+
+## 🌐 Live API
+
+The API is deployed and publicly accessible.
+
+- **Live API:** [Open API](https://loan-approval-ml-kon7.onrender.com/)
+- **Swagger Docs:** [Open Swagger UI](https://loan-approval-ml-kon7.onrender.com/docs)
+- **Health Check:** [Check API Health](https://loan-approval-ml-kon7.onrender.com/health)
+
 ## Tech Stack
 
 - Python
